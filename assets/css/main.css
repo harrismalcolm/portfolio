@@ -2209,14 +2209,14 @@ input, select, textarea {
 		}
 
 		.testimonial-image {
-			border-radius: 8%;
+			border-radius: 25%;
 		}
 
 		.case-study h3 {
 			margin-top: 20px;
 		}
 
-		.case-study p {
+		.case-study p,ul {
 			margin-top: 20px;
 			color: #000;
 		}
