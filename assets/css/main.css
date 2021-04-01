@@ -2144,9 +2144,6 @@ input, select, textarea {
 
 				}
 
-/* CUSTOM CSS */
-
-/* WORK SECTION */
 
 
 /* Footer */
@@ -2198,7 +2195,12 @@ input, select, textarea {
 			}
 
 		}
+/* CUSTOM CSS */
 
+
+		p {
+			color: rgb(134, 142, 150);
+		}
 		cite p {
 			margin: 0;
 		}
@@ -2206,6 +2208,22 @@ input, select, textarea {
 			margin-top: 10px;
 		}
 
+		.testimonial-image {
+			border-radius: 8%;
+		}
+
+		.case-study h3 {
+			margin-top: 20px;
+		}
+
+		.case-study p {
+			margin-top: 20px;
+			color: #000;
+		}
+
+		.image-container{
+			margin-top: 20px;
+		}
 
 		@media screen and (max-width: 736px){
 			cite {
