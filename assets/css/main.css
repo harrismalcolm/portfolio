@@ -2144,6 +2144,11 @@ input, select, textarea {
 
 				}
 
+/* CUSTOM CSS */
+
+/* WORK SECTION */
+
+
 /* Footer */
 
 	#footer {
@@ -2192,4 +2197,20 @@ input, select, textarea {
 				margin-left: 0.5em;
 			}
 
+		}
+
+		cite p {
+			margin: 0;
+		}
+		.author {
+			margin-top: 10px;
+		}
+
+
+		@media screen and (max-width: 736px){
+			cite {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+			}
 		}
