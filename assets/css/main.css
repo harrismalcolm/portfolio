@@ -2216,8 +2216,13 @@ input, select, textarea {
 			border-radius: 25%;
 		}
 
-		.case-study h3 {
-			margin-top: 20px;
+		.case-title {
+			margin-top: 10px;
+			margin-bottom: 20px;
+		}
+
+		.case-title h3 {
+			text-align: center;
 		}
 
 		.case-study p,ul {
